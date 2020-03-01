@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+---------------------------------------
+
+### Day 11: 2020-03-01
+
+**Today's Progress**:
+Working on MERN Stack Project "DevConnector"
+Finalize project and deploy it to heroku
+
+**Thoughts:**
+Love heroku! So easy and it just works... have to take a deeper look at it in the future.
+
+_&rArr; 1,5h_
+
 
 ---------------------------------------
 
