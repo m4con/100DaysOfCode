@@ -9,9 +9,9 @@ UI-Elements will be styled with the latest CSS Techniques possible and with as l
 
 Making a list:
 
-* [ ] creating VanillaJS Projects and programm it again with React
+* [ ] develop a WhatsApp Clone
 * [ ] complete a D3js project
-* [ ] develop a project bootstrapper based on nodejs
+* [ ] develop a gutenberg block plugin for wordpress using [Gutenblock](https://github.com/ahmadawais/create-guten-block)
 * [ ] web accessibility
 * [ ] level up in functional programming via codewars
 
@@ -20,7 +20,7 @@ Making a list:
 * [ ] The complete Node.js Developer Course
 * [ ] Typescript
 * [ ] GraphQL Bootcamp
-* [ ] MERN Stack Front to Back: Full Stack React, Redux & Node.js
+* [x] MERN Stack Front to Back: Full Stack React, Redux & Node.js
 
 ### Books
 
