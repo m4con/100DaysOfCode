@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+
+---------------------------------------
+
+### Day 14: 2020-03-04
+
+**Today's Progress**:
+Write Summary about "What is an API-Gateway"
+Working on Typescript Project.
+Going to more advanced stuff (Union Types, Literal Types, Function Types)
+
+**Thoughts:**
+So many names for so obvious things I would do anyway when programming.
+But's cool to now know a bit more about the jargon in the API world.
+
+_&rArr; 3h_
+
+
 ---------------------------------------
 
 ### Day 13: 2020-03-03
