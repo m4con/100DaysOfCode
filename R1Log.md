@@ -2,6 +2,38 @@
 
 ---------------------------------------
 
+### Day 13: 2020-03-03
+
+**Today's Progress**:
+Research regarding my new Website:
+* Find examples of Website styles I like
+* find imagery 
+* Define what identifies me and my business
+
+**Thoughts:**
+Lazy day - programming related. But not lazy at all...
+
+_&rArr; 2,5h_
+
+
+---------------------------------------
+
+### Day 12: 2020-03-02
+
+**Today's Progress**:
+Working on TypeScript Project
+Starting to learn the basics.
+Read an article and watch videos about how API Gateways work.
+
+**Thoughts:**
+So many names for so obvious things I would do anyway when programming.
+But's cool to now know a bit more about the jargon in the API world.
+
+_&rArr; 2h_
+
+
+---------------------------------------
+
 ### Day 11: 2020-03-01
 
 **Today's Progress**:
