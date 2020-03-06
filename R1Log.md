@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
 
+
+
+---------------------------------------
+
+### Day 16: 2020-03-06
+
+**Today's Progress**:
+
+Working on Typescript Project
+
+**Thoughts:**
+
+Hard to get concentrated on classes and interfaces within Typescript...
+
+_&rArr; 1,5h_
+
+
 ---------------------------------------
 
 ### Day 15: 2020-03-05
