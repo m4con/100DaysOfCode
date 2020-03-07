@@ -10,7 +10,7 @@
 **Today's Progress**:
 
 Working on Typescript Project
-* doing some excercises with gerenics
+* doing some excercises with generics
 * wrote some logging decorators
 
 **Thoughts:**
