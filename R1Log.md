@@ -5,6 +5,24 @@
 
 ---------------------------------------
 
+### Day 17: 2020-03-07
+
+**Today's Progress**:
+
+Working on Typescript Project
+* doing some excercises with gerenics
+* wrote some logging decorators
+
+**Thoughts:**
+
+Don't like it that something is done "behind the scenes"...
+Not sure if I should like decorators.
+
+_&rArr; 3h_
+
+
+---------------------------------------
+
 ### Day 16: 2020-03-06
 
 **Today's Progress**:
