@@ -5,6 +5,22 @@
 
 ---------------------------------------
 
+### Day 18-25: 2020-03-08 - 2020-03-15
+
+**Today's Progress**:
+
+Break due to business travel and funeral service.
+
+**Thoughts:**
+
+Make it happen! You never know when it's over...
+
+_&rArr; ---h_
+
+
+
+---------------------------------------
+
 ### Day 17: 2020-03-07
 
 **Today's Progress**:
