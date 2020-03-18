@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 
+---------------------------------------
+
+### Day 26: 2020-03-16
+
+**Today's Progress**:
+
+Working on Typescript Project
+* do validation with decorators
+* start building a Drag & Drop Project
+
+**Thoughts:**
+Going further! It's worth it!
+
+
+_&rArr; 3h_
 
 
 ---------------------------------------
