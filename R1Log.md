@@ -3,6 +3,41 @@
 
 ---------------------------------------
 
+### Day 28: 2020-03-18
+
+**Today's Progress**:
+
+Working on Typescript Project
+* finalizing the drag & drop project
+* starting restructuring files
+* learn about modules and namespaces
+
+**Thoughts:**
+One typo causes me a hour - wrote a function declaration instead of calling the function... => so Stupid
+
+
+_&rArr; 2,5h_
+
+
+---------------------------------------
+
+### Day 27: 2020-03-17
+
+**Today's Progress**:
+
+Working on Typescript Project
+* get user input from form to create items I than can drag & drop round.
+* 
+
+**Thoughts:**
+Day is gone and I've effectifly done nothing...
+
+
+_&rArr; 1h_
+
+
+---------------------------------------
+
 ### Day 26: 2020-03-16
 
 **Today's Progress**:
