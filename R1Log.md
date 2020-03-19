@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
 
+
+---------------------------------------
+
+### Day 29: 2020-03-19
+
+**Today's Progress**:
+
+Working on Typescript Project
+* learn more about modules and namespaces
+
+**Thoughts:**
+Structuring your day let you get much further!
+So proud of me today!;)
+
+
+_&rArr; 3h_
+
+
 ---------------------------------------
 
 ### Day 28: 2020-03-18
