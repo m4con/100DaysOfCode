@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
 
+---------------------------------------
+
+### Day 30: 2020-03-20
+
+**Today's Progress**:
+
+* finally learn the advantages from composition over interitance
+* learned about ways to use z-index properly in a component based architecture
+* understand factory functions
+* summarize all three topics to get them in my mind
+
+**Thoughts:**
+Now that I'm writing about my progress, I'm impressed of myself.
+But I have to write this log earlier. Not always one day later.
+On the other hand maybe this is a motivational starting point for todays progress.
+
+
+_&rArr; 2,5h_
+
+
 
 ---------------------------------------
 
