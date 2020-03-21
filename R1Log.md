@@ -1,21 +1,42 @@
 # 100 Days Of Code - Log
 
 
+
+---------------------------------------
+
+### Day 31: 2020-03-21
+
+**Today's Progress**:
+
+Working on TypeScript Project
+* :nerd_face: Create a simple Todo App with React & TypeScript
+* :nerd_face: Create a simple REST API with NodeJS & Express & TypeScript
+* :checkered_flag: Completed my TypeScript Course
+* :pencil2: fixing typos
+
+**Thoughts:**
+I like :smiley: ! They break up the text :desert:
+Trying to find my set of emojis to use during my journey. :ship:
+But it's a bit time wasting. :alarm_clock: 
+
+_&rArr; 2,5h_
+
+
 ---------------------------------------
 
 ### Day 30: 2020-03-20
 
 **Today's Progress**:
 
-* finally learn the advantages from composition over interitance
-* learned about ways to use z-index properly in a component based architecture
-* understand factory functions
-* summarize all three topics to get them in my mind
+* :bulb: finally learn the advantages from composition over interitance
+* :books: learned about ways to use z-index properly in a component based architecture
+* :factory: understand factory functions
+* :man_technologist: summarize all three topics to get them in my mind
 
 **Thoughts:**
-Now that I'm writing about my progress, I'm impressed of myself.
-But I have to write this log earlier. Not always one day later.
-On the other hand maybe this is a motivational starting point for todays progress.
+Now that I'm writing about my progress, I'm impressed of myself. :astonished:
+But I have to write this log earlier. Not always one day later. :calendar:
+On the other hand maybe this is a motivational starting point for todays progress. :muscle:
 
 
 _&rArr; 2,5h_
@@ -28,7 +49,7 @@ _&rArr; 2,5h_
 
 **Today's Progress**:
 
-Working on Typescript Project
+Working on TypeScript Project
 * learn more about modules and namespaces
 
 **Thoughts:**
@@ -45,7 +66,7 @@ _&rArr; 3h_
 
 **Today's Progress**:
 
-Working on Typescript Project
+Working on TypeScript Project
 * finalizing the drag & drop project
 * starting restructuring files
 * learn about modules and namespaces
@@ -63,7 +84,7 @@ _&rArr; 2,5h_
 
 **Today's Progress**:
 
-Working on Typescript Project
+Working on TypeScript Project
 * get user input from form to create items I than can drag & drop round.
 * 
 
@@ -80,7 +101,7 @@ _&rArr; 1h_
 
 **Today's Progress**:
 
-Working on Typescript Project
+Working on TypeScript Project
 * do validation with decorators
 * start building a Drag & Drop Project
 
@@ -113,7 +134,7 @@ _&rArr; ---h_
 
 **Today's Progress**:
 
-Working on Typescript Project
+Working on TypeScript Project
 * doing some excercises with generics
 * wrote some logging decorators
 
@@ -131,11 +152,11 @@ _&rArr; 3h_
 
 **Today's Progress**:
 
-Working on Typescript Project
+Working on TypeScript Project
 
 **Thoughts:**
 
-Hard to get concentrated on classes and interfaces within Typescript...
+Hard to get concentrated on classes and interfaces within TypeScript...
 
 _&rArr; 1,5h_
 
@@ -166,7 +187,7 @@ _&rArr; 1h_
 **Today's Progress**:
 
 * Write Summary about "What is an API-Gateway"
-* Working on Typescript Project.
+* Working on TypeScript Project.
 * Going to more advanced stuff (Union Types, Literal Types, Function Types)
 
 **Thoughts:**
