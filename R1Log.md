@@ -3,6 +3,21 @@
 
 ---------------------------------------
 
+### Day 34: 2020-03-24
+
+**Today's Progress**:
+Working on GraphQL Project:
+* :books: What are scalar Types and custom Types and how to query them
+* :books: Learn the basics of Schemas and Queries
+
+**Thoughts:**
+Not bad. And luckily I've done the Typescript Project before, to the GraphQL queries look very familiar to me. :grin:
+
+_&rArr; 2h_
+
+
+---------------------------------------
+
 ### Day 33: 2020-03-23
 
 **Today's Progress**:
