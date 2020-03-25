@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+---------------------------------------
+
+### Day 32: 2020-03-22
+
+**Today's Progress**:
+Rest day
+
+**Thoughts:**
+Brain overload! Unable to concentrate on anything.
+
+_&rArr; 0h_
+
 
 ---------------------------------------
 
