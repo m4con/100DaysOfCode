@@ -3,6 +3,22 @@
 
 ---------------------------------------
 
+### Day 33: 2020-03-23
+
+**Today's Progress**:
+:tada: Working on GraphQL Project:
+* :construction_worker: Setup working Environment
+* :books: Learn basics how GraphQL works and what the advantages are
+* :muscle: Create my first own GraphQL API
+
+**Thoughts:**
+Till now it's easy and I'm so excited to learn how powerfull GraphQL can be in clientside applications. :smiley:
+
+_&rArr; 1h_
+
+
+---------------------------------------
+
 ### Day 32: 2020-03-22
 
 **Today's Progress**:
