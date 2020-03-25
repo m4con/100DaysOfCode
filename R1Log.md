@@ -6,10 +6,10 @@
 ### Day 32: 2020-03-22
 
 **Today's Progress**:
-Rest day
+:desert_island: Rest day
 
 **Thoughts:**
-Brain overload! Unable to concentrate on anything.
+Brain overload! :confused: Unable to concentrate on anything. :upside_down_face:
 
 _&rArr; 0h_
 
@@ -23,7 +23,7 @@ _&rArr; 0h_
 Working on TypeScript Project
 * :nerd_face: Create a simple Todo App with React & TypeScript
 * :nerd_face: Create a simple REST API with NodeJS & Express & TypeScript
-* :checkered_flag: Completed my TypeScript Course
+* :checkered_flag: :1st_place_medal: Completed my TypeScript Course
 * :pencil2: fixing typos
 
 **Thoughts:**
