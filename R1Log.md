@@ -3,6 +3,21 @@
 
 ---------------------------------------
 
+### Day 35: 2020-03-25
+
+**Today's Progress**:
+Working on GraphQL Project:
+* :man_technologist: Doing some excercises related to Queries (reading data from the Graph)
+* :books: Stick into Mutations
+
+**Thoughts:**
+Sounds easy - isn't. Had to read the schema more than twice to understand how resolvers work...
+
+_&rArr; 1,5h_
+
+
+---------------------------------------
+
 ### Day 34: 2020-03-24
 
 **Today's Progress**:
