@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+---------------------------------------
+
+### Day 36: 2020-03-26
+
+**Today's Progress**:
+Working on GraphQL Project:
+* :man_technologist: Doing some excercises related to Mutations (Creating, Deleting Data from the Graph)
+
+
+:man_student: Research of Rich Peoples Habits :moneybag:
+* Bill Gates
+* Elon Musk
+* Mark Zuckerberg
+* Jeff Bezos
+* Warren Buffet
+
+**Thoughts:**
+Findind out about those habits and realizing they are partly congruent was mind blowing :boom:
+
+
+_&rArr; 2,5h_
+
 
 ---------------------------------------
 
