@@ -5,11 +5,12 @@
 ### Day 36: 2020-03-26
 
 **Today's Progress**:
+
 Working on GraphQL Project:
 * :man_technologist: Doing some excercises related to Mutations (Creating, Deleting Data from the Graph)
 
 
-:man_student: Research of Rich Peoples Habits :moneybag:
+:man_student: Research of Rich Peoples Habits :moneybag: to get more motivation and some inspiration!
 * Bill Gates
 * Elon Musk
 * Mark Zuckerberg
@@ -17,6 +18,7 @@ Working on GraphQL Project:
 * Warren Buffet
 
 **Thoughts:**
+
 Findind out about those habits and realizing they are partly congruent was mind blowing :boom:
 
 
@@ -28,11 +30,13 @@ _&rArr; 2,5h_
 ### Day 35: 2020-03-25
 
 **Today's Progress**:
+
 Working on GraphQL Project:
 * :man_technologist: Doing some excercises related to Queries (reading data from the Graph)
 * :books: Stick into Mutations
 
 **Thoughts:**
+
 Sounds easy - isn't. Had to read the schema more than twice to understand how resolvers work...
 
 _&rArr; 1,5h_
@@ -43,11 +47,13 @@ _&rArr; 1,5h_
 ### Day 34: 2020-03-24
 
 **Today's Progress**:
+
 Working on GraphQL Project:
 * :books: What are scalar Types and custom Types and how to query them
 * :books: Learn the basics of Schemas and Queries
 
 **Thoughts:**
+
 Not bad. And luckily I've done the Typescript Project before, to the GraphQL queries look very familiar to me. :grin:
 
 _&rArr; 2h_
@@ -58,12 +64,14 @@ _&rArr; 2h_
 ### Day 33: 2020-03-23
 
 **Today's Progress**:
+
 :tada: Working on GraphQL Project:
 * :construction_worker: Setup working Environment
 * :books: Learn basics how GraphQL works and what the advantages are
 * :muscle: Create my first own GraphQL API
 
 **Thoughts:**
+
 Till now it's easy and I'm so excited to learn how powerfull GraphQL can be in clientside applications. :smiley:
 
 _&rArr; 1h_
@@ -74,9 +82,11 @@ _&rArr; 1h_
 ### Day 32: 2020-03-22
 
 **Today's Progress**:
+
 :desert_island: Rest day
 
 **Thoughts:**
+
 Brain overload! :confused: Unable to concentrate on anything. :upside_down_face:
 
 _&rArr; 0h_
@@ -95,6 +105,7 @@ Working on TypeScript Project
 * :pencil2: fixing typos
 
 **Thoughts:**
+
 I like :smiley: ! They break up the text :desert:
 Trying to find my set of emojis to use during my journey. :ship:
 But it's a bit time wasting. :alarm_clock: 
@@ -114,6 +125,7 @@ _&rArr; 2,5h_
 * :man_technologist: summarize all three topics to get them in my mind
 
 **Thoughts:**
+
 Now that I'm writing about my progress, I'm impressed of myself. :astonished:
 But I have to write this log earlier. Not always one day later. :calendar:
 On the other hand maybe this is a motivational starting point for todays progress. :muscle:
@@ -133,6 +145,7 @@ Working on TypeScript Project
 * learn more about modules and namespaces
 
 **Thoughts:**
+
 Structuring your day let you get much further!
 So proud of me today!;)
 
@@ -152,6 +165,7 @@ Working on TypeScript Project
 * learn about modules and namespaces
 
 **Thoughts:**
+
 One typo causes me a hour - wrote a function declaration instead of calling the function... => so Stupid
 
 
@@ -169,6 +183,7 @@ Working on TypeScript Project
 * 
 
 **Thoughts:**
+
 Day is gone and I've effectifly done nothing...
 
 
@@ -186,6 +201,7 @@ Working on TypeScript Project
 * start building a Drag & Drop Project
 
 **Thoughts:**
+
 Going further! It's worth it!
 
 
