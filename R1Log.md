@@ -2,12 +2,30 @@
 
 ---------------------------------------
 
+### Day 37: 2020-03-27
+
+**Today's Progress**:
+
+Working on GraphQL Project:
+* :man_technologist: Restructuring Project - splitting resolvers and schema and dummy data that will come from the db in the future
+
+**Thoughts:**
+
+Much better structure now! Drives me crazy seeing unstructured projects over and over again.
+
+
+_&rArr; 1h_
+
+
+
+---------------------------------------
+
 ### Day 36: 2020-03-26
 
 **Today's Progress**:
 
 Working on GraphQL Project:
-* :man_technologist: Doing some excercises related to Mutations (Creating, Deleting Data from the Graph)
+* :man_technologist: Doing some excercises related to Mutations (Creating, Deleting Data on the Graph)
 
 
 :man_student: Research of Rich Peoples Habits :moneybag: to get more motivation and some inspiration!
