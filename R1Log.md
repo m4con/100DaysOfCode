@@ -2,6 +2,24 @@
 
 ---------------------------------------
 
+### Day 38: 2020-03-28
+
+**Today's Progress**:
+
+Working on GraphQL Project:
+* :man_technologist: Doing some excercises related to Mutations (Updating Data on the Graph)
+* :books: Dive into subscriptions
+* :books: Trying hard to understand interators / generators and Symbols
+
+**Thoughts:**
+Unable to write one sentence straight forward without typo... :confused:
+More difficult than expected. Especially finding real world usecases of generators...
+
+
+_&rArr; 3h_
+
+---------------------------------------
+
 ### Day 37: 2020-03-27
 
 **Today's Progress**:
