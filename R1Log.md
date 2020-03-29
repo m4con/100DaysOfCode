@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+
+
+---------------------------------------
+
+### Day 39: 2020-03-29
+
+**Today's Progress**:
+
+Working on GraphQL Project:
+* :man_technologist: Doing some excercises related to Subscriptions
+* :bug: reporting a scrolling bug in GraphQL Playground
+
+**Thoughts:**
+
+Subscriptions are cool, but the error messages in GraphQL Playground aren't as meaningfull as they should be. Cost me a lot of time to figure out some mistakes. :disappointed:
+
+
+_&rArr; 2h_
+
+
 ---------------------------------------
 
 ### Day 38: 2020-03-28
@@ -12,6 +32,7 @@ Working on GraphQL Project:
 * :books: Trying hard to understand interators / generators and Symbols
 
 **Thoughts:**
+
 Unable to write one sentence straight forward without typo... :confused:
 More difficult than expected. Especially finding real world usecases of generators...
 
