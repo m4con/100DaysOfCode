@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
 
+---------------------------------------
+
+### Day 40: 2020-03-30
+
+**Today's Progress**:
+
+Working on GraphQL Project:
+* :whale: Setup docker (struggling enabling virtualization on windows)
+* :card_file_box: Setup postgres database on heroku
+* :sparkles: Setup prisma to work with GraphQL
+* :wrench: adapt prisma configuration to connect to postgres database
+
+**Thoughts:**
+Can't tell how frustrating it is to setup and configure docker and databases and their connections...
+But finally it works and I can move on.
+
+_&rArr; 2h_
+
 
 ---------------------------------------
 
