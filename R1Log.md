@@ -3,6 +3,22 @@
 
 ---------------------------------------
 
+### Day 41: 2020-03-31
+
+**Today's Progress**:
+
+Working on GraphQL Project:
+* :books: Exploring the Prisma GraphQL API
+* :pencil: Write a summary to a great topic I've found "Aborting Activities". Using the AbortController interface in Promise based functions
+
+**Thoughts:**
+To tired to learn much today...
+
+_&rArr; 1h_
+
+
+---------------------------------------
+
 ### Day 40: 2020-03-30
 
 **Today's Progress**:
