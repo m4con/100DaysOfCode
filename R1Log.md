@@ -3,6 +3,24 @@
 
 ---------------------------------------
 
+### Day 42: 2020-04-01
+
+**Today's Progress**:
+
+Working on GraphQL Project:
+* :books: Figuring out how to connect prisma to node via graphql-cli (well almost)
+* :books: Exporing some financial stock APIs (new project)
+
+**Thoughts:**
+How? How can it be that they are changing everything and thought that with some lines of documentation everything is ok?! :rage:
+Can't believe, that I was working 3h just on getting prisma and graphql-cli configured - and know what? Didn't work...
+So incredible stupid and frustrating! :boom:
+
+_&rArr; 4h_
+
+
+---------------------------------------
+
 ### Day 41: 2020-03-31
 
 **Today's Progress**:
