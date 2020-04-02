@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
 
+
+---------------------------------------
+
+### Day 43: 2020-04-02
+
+**Today's Progress**:
+
+Working on React Project:
+* :books: :man_technologist: Starting a React & Redux Project the TDD way :muscle:
+
+**Thoughts:**
+After I got stuck with the GraphQL topic yesterday, I lost my motivation for coding today. But a challenge is a challenge and so I have to do sth. even if I don't feel like it. :triumph:
+
+
+_&rArr; 2h_
+
 ---------------------------------------
 
 ### Day 42: 2020-04-01
