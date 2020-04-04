@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
 
+---------------------------------------
+
+### Day 44: 2020-04-03
+
+**Today's Progress**:
+
+Working on React Project:
+* :man_technologist: Writing my first React component the TDD way
+
+**Thoughts:**
+After dealing with a bug all day, the motivation to learn was very low. :sleepy:
+Because who can guess that there are no spaces in a sentence in Taiwan? :roll_eyes: :confused:
+There is little use in an algorithm that uses spaces to find out how many words can fit in a particular teaser element before spotting out the excess parts of the sentence. :disappointed:
+
+_&rArr; 1h_
+
 
 ---------------------------------------
 
