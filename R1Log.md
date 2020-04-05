@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
 
+
+---------------------------------------
+
+### Day 45: 2020-04-04
+
+**Today's Progress**:
+
+Working on React Project:
+* :man_technologist: Learned how to simulate events within a React component the TDD way
+* :books: heard about a new frontend testing tool named warhol which should be way smarter that the screenshot compares there outside. Let's see! :smiley:
+
+**Thoughts:**
+Don't know where to get with all my ideas! :sweat_smile: First step is to collect all my ideas to work in them step by step. :memo:
+
+
+_&rArr; 1h_
+
 ---------------------------------------
 
 ### Day 44: 2020-04-03
