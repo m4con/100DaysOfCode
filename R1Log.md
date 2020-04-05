@@ -10,7 +10,7 @@ Working on React Project:
 * :man_technologist: Bringing in Redux testing the TDD way :muscle:
 
 **Thoughts:**
-Not so productive today. Weather was too nice to learn inside.
+Not so productive today. Weather was too good to study inside.
 
 _&rArr; 1h_
 
