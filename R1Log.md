@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
+---------------------------------------
 
+### Day 46: 2020-04-05
+
+**Today's Progress**:
+
+Working on React Project:
+* :man_technologist: Bringing in Redux testing the TDD way :muscle:
+
+**Thoughts:**
+Not so productive today. Weather was too nice to learn inside.
+
+_&rArr; 1h_
 
 ---------------------------------------
 
