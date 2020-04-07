@@ -2,6 +2,20 @@
 
 ---------------------------------------
 
+### Day 47: 2020-04-06
+
+**Today's Progress**:
+
+Working on React Project:
+* :radio: Listening to the workingdraft podcast ""
+
+**Thoughts:**
+No progress today... To distracted from ongoing stuff at work.
+
+_&rArr; 1h_
+
+---------------------------------------
+
 ### Day 46: 2020-04-05
 
 **Today's Progress**:
@@ -10,7 +24,7 @@ Working on React Project:
 * :man_technologist: Bringing in Redux testing the TDD way :muscle:
 
 **Thoughts:**
-Not so productive today. Weather was too good to study inside.
+Not so productive today. Weather was too good to study indoors.
 
 _&rArr; 1h_
 
