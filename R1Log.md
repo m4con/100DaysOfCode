@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+
+---------------------------------------
+
+### Day 48: 2020-04-07
+
+**Today's Progress**:
+
+Working on React Project:
+* :man_technologist: Implementing actions in redux the TDD way
+* :radio: Listening to the programmierbar podcast with topic "CSS"
+
+**Thoughts:**
+Resume Momentum on coding!
+
+_&rArr; 2h_
+
 ---------------------------------------
 
 ### Day 47: 2020-04-06
@@ -7,7 +23,7 @@
 **Today's Progress**:
 
 Working on React Project:
-* :radio: Listening to the workingdraft podcast ""
+* :radio: Listening to the workingdraft podcast "TypeScript 3.8"
 
 **Thoughts:**
 No progress today... To distracted from ongoing stuff at work.
