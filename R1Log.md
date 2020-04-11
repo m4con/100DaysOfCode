@@ -1,6 +1,68 @@
 # 100 Days Of Code - Log
 
 
+
+---------------------------------------
+
+### Day 52: 2020-04-11
+
+**Today's Progress**:
+
+* :man_technologist: Finish my redux middleware tutorial
+* :man_technologist: Start with Server Setup and Authentication
+
+**Thoughts:**
+It must not always be coding. There is so much more around a project. Ok, but this challange is 100DaysOfCode, so let me tackle this challenge tomorrow again.
+
+_&rArr; 3h_
+
+
+---------------------------------------
+
+### Day 51: 2020-04-10
+
+**Today's Progress**:
+
+* :radio: Listen to programmierbar podcast 
+* :loud_sound: Talk to colleagues about my project and brainstorm a bit! :thinking: :nerd_face:
+
+**Thoughts:**
+It must not always be coding. There is so much more around a project. Ok, but this challange is 100DaysOfCode, so let me tackle this challenge tomorrow again.
+
+_&rArr; 1,5h_
+
+
+---------------------------------------
+
+### Day 50: 2020-04-09
+
+**Today's Progress**:
+
+* :sunglasses: :relaxed: Rest day
+
+**Thoughts:**
+Sort thoughts and enjoy the day.
+
+_&rArr; 0h_
+
+
+---------------------------------------
+
+### Day 49: 2020-04-08
+
+**Today's Progress**:
+
+Working on React Project:
+* :books: Get a deeper and more fundamental understanding of Higher Order Components
+* :books: Start to learn about middleware in Redux
+* :man_technologist: Reimplement the redux-promise middleware on my own
+
+**Thoughts:**
+Feels good to get things done! :muscle: - Especially if you really understand the logic behind! :grin:
+
+_&rArr; 2h_
+
+
 ---------------------------------------
 
 ### Day 48: 2020-04-07
