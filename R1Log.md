@@ -4,6 +4,66 @@
 
 ---------------------------------------
 
+### Day 56: 2020-04-15
+
+**Today's Progress**:
+
+* :no_mouth: REST Day - too much to do at work today
+
+**Thoughts:**
+Was a productive day with some aha effects but unfortunately not for my challange goals. :slightly_frowning_face:
+
+_&rArr; 0h_
+
+
+
+---------------------------------------
+
+### Day 55: 2020-04-14
+
+**Today's Progress**:
+
+* :books: did a lot of research how some internals of redux and react-redux work to get a better understanding how this can be.
+
+**Thoughts:**
+Ok, I got it - partly, but it's getting clearer and clearer :grin: :wink: 
+
+_&rArr; 2h_
+
+
+
+---------------------------------------
+
+### Day 54: 2020-04-13
+
+**Today's Progress**:
+
+* :man_technologist: Last Chapter, Client Side Auth finished
+
+**Thoughts:**
+I don't get it... Currying... And parameters that are magically there to use... Why? :confused:
+Do I ever understand? :worried:
+
+_&rArr; 3h_
+
+
+---------------------------------------
+
+### Day 53: 2020-04-12
+
+**Today's Progress**:
+
+* :man_technologist: Finish Server Setup and Authentication
+
+**Thoughts:**
+Why does all these tutorials are getting confusing at a specific point? At first much bla bla about very fundamental topics and concepts and then? :thinking:
+
+
+_&rArr; 3h_
+
+
+---------------------------------------
+
 ### Day 52: 2020-04-11
 
 **Today's Progress**:
@@ -12,7 +72,8 @@
 * :man_technologist: Start with Server Setup and Authentication
 
 **Thoughts:**
-It must not always be coding. There is so much more around a project. Ok, but this challange is 100DaysOfCode, so let me tackle this challenge tomorrow again.
+
+Got the flow. Have to rethink about some special concepts in deep the next days. :nerd_face:
 
 _&rArr; 3h_
 
@@ -27,6 +88,7 @@ _&rArr; 3h_
 * :loud_sound: Talk to colleagues about my project and brainstorm a bit! :thinking: :nerd_face:
 
 **Thoughts:**
+
 It must not always be coding. There is so much more around a project. Ok, but this challange is 100DaysOfCode, so let me tackle this challenge tomorrow again.
 
 _&rArr; 1,5h_
@@ -41,6 +103,7 @@ _&rArr; 1,5h_
 * :sunglasses: :relaxed: Rest day
 
 **Thoughts:**
+
 Sort thoughts and enjoy the day.
 
 _&rArr; 0h_
@@ -58,6 +121,7 @@ Working on React Project:
 * :man_technologist: Reimplement the redux-promise middleware on my own
 
 **Thoughts:**
+
 Feels good to get things done! :muscle: - Especially if you really understand the logic behind! :grin:
 
 _&rArr; 2h_
@@ -74,6 +138,7 @@ Working on React Project:
 * :radio: Listening to the programmierbar podcast with topic "CSS"
 
 **Thoughts:**
+
 Resume Momentum on coding!
 
 _&rArr; 2h_
@@ -88,6 +153,7 @@ Working on React Project:
 * :radio: Listening to the workingdraft podcast "TypeScript 3.8"
 
 **Thoughts:**
+
 No progress today... To distracted from ongoing stuff at work.
 
 _&rArr; 1h_
@@ -102,6 +168,7 @@ Working on React Project:
 * :man_technologist: Bringing in Redux testing the TDD way :muscle:
 
 **Thoughts:**
+
 Not so productive today. Weather was too good to study indoors.
 
 _&rArr; 1h_
@@ -117,6 +184,7 @@ Working on React Project:
 * :books: heard about a new frontend testing tool named warhol which should be way smarter that the screenshot compares there outside. Let's see! :smiley:
 
 **Thoughts:**
+
 Don't know where to get with all my ideas! :sweat_smile: First step is to collect all my ideas to work in them step by step. :memo:
 
 
@@ -132,6 +200,7 @@ Working on React Project:
 * :man_technologist: Writing my first React component the TDD way
 
 **Thoughts:**
+
 After dealing with a bug all day, the motivation to learn was very low. :sleepy:
 Because who can guess that there are no spaces in a sentence in Taiwan? :roll_eyes: :confused:
 There is little use in an algorithm that uses spaces to find out how many words can fit in a particular teaser element before spotting out the excess parts of the sentence. :disappointed:
@@ -149,6 +218,7 @@ Working on React Project:
 * :books: :man_technologist: Starting a React & Redux Project the TDD way :muscle:
 
 **Thoughts:**
+
 After I got stuck with the GraphQL topic yesterday, I lost my motivation for coding today. But a challenge is a challenge and so I have to do sth. even if I don't feel like it. :triumph:
 
 
@@ -165,6 +235,7 @@ Working on GraphQL Project:
 * :books: Exporing some financial stock APIs (new project)
 
 **Thoughts:**
+
 How? How can it be that they are changing everything and thought that with some lines of documentation everything is ok?! :rage:
 Can't believe, that I was working 3h just on getting prisma and graphql-cli configured - and know what? Didn't work...
 So incredible stupid and frustrating! :boom:
@@ -183,6 +254,7 @@ Working on GraphQL Project:
 * :pencil: Write a summary to a great topic I've found "Aborting Activities". Using the AbortController interface in Promise based functions
 
 **Thoughts:**
+
 To tired to learn much today...
 
 _&rArr; 1h_
@@ -201,6 +273,7 @@ Working on GraphQL Project:
 * :wrench: adapt prisma configuration to connect to postgres database
 
 **Thoughts:**
+
 Can't tell how frustrating it is to setup and configure docker and databases and their connections...
 But finally it works and I can move on.
 
